@@ -1,0 +1,50 @@
+[
+  {
+    "id": "espresso",
+    "name": "Espresso",
+    "description": "Shot concentrat, baza pentru multe băuturi cu cafea.",
+    "imageUrl": "https://picsum.photos/seed/espresso/600/400"
+  },
+  {
+    "id": "latte",
+    "name": "Caffe Latte",
+    "description": "Espresso cu mult lapte cremos, gust fin și blând.",
+    "imageUrl": "https://picsum.photos/seed/latte/600/400"
+  },
+  {
+    "id": "cappuccino",
+    "name": "Cappuccino",
+    "description": "Espresso, lapte și spumă în părți egale, echilibru perfect.",
+    "imageUrl": "https://picsum.photos/seed/cappuccino/600/400"
+  },
+  {
+    "id": "americano",
+    "name": "Americano",
+    "description": "Espresso lungit cu apă fierbinte, mai ușor decât un shot.",
+    "imageUrl": "https://picsum.photos/seed/americano/600/400"
+  },
+  {
+    "id": "mocha",
+    "name": "Mocha",
+    "description": "Espresso cu ciocolată și lapte, desert într-o ceașcă.",
+    "imageUrl": "https://picsum.photos/seed/mocha/600/400"
+  },
+  {
+    "id": "flatwhite",
+    "name": "Flat White",
+    "description": "Dublu espresso cu lapte, textură catifelată.",
+    "imageUrl": "https://picsum.photos/seed/flatwhite/600/400"
+  },
+  {
+    "id": "macchiato",
+    "name": "Macchiato",
+    "description": "Espresso marcat cu puțin lapte spumat.",
+    "imageUrl": "https://picsum.photos/seed/macchiato/600/400"
+  },
+  {
+    "id": "cortado",
+    "name": "Cortado",
+    "description": "Espresso echilibrat cu o cantitate egală de lapte cald.",
+    "imageUrl": "https://picsum.photos/seed/cortado/600/400"
+  }
+]
